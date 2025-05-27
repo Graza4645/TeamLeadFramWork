@@ -5,7 +5,7 @@ import login_logout_Page from '../2PW_Page_Object_Model/login.js';
 var page;
 // beforAll used to launch the browser and navigate the application
 test.beforeAll(async()=>{
-const browser = await chromium.launch({headless:false});
+const browser = await chromium.launch({headless:true});
 const context = await browser.newContext()
  page = await context.newPage()
  await page.goto(common.url);
