@@ -35,6 +35,7 @@ test('Add new User with vailid data', async()=>{
     //await page.locator("//ul[@class='oxd-dropdown-menu']").last().click();
 
     await page.waitForTimeout(6000);
+    console.log("i have written two scenario for the merge");
 
 
 
