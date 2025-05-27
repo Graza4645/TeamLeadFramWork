@@ -40,7 +40,7 @@ test('Add new User with vailid data', async()=>{
 
 
 
-
+console.log("i have written2 scenrios")
 
 
   
