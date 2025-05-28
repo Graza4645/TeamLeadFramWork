@@ -37,9 +37,6 @@ test('Add new User with vailid data', async()=>{
     await page.waitForTimeout(6000);
     console.log("i have written two scenario for the merge");
 
-
-
-
 console.log("i have written2 scenrios")
 
 
