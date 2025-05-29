@@ -38,6 +38,7 @@ test('Add new User with vailid data', async()=>{
     console.log("i have written two scenario for the merge");
 
 console.log("i have writtn2 scenrios")
+console.log("checking ")
 
 
   
