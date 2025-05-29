@@ -39,6 +39,7 @@ test('Add new User with vailid data', async()=>{
 
 console.log("i have writtn2 scenrios")
 console.log("checking ")
+console.log("hey i am Vikas Pal");
 
 
   
